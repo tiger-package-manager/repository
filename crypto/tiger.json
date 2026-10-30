@@ -1,0 +1,9 @@
+{
+  "name": "crypto",
+  "version": "1.0.0",
+  "description": "Cryptography and Base64 utilities",
+  "main": "init.lua",
+  "author": "Tiger-Tig74",
+  "license": "MIT",
+  "dependencies": {}
+}
